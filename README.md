@@ -6,3 +6,7 @@
 <li>pip -r requirements.txt</li>
 <li>python3 manage.py runserver</li>
 </ol>
+  
+  <h5>To run the test cases, Hit <i>python3 manage.py test</i> and add more to test cases</h5>
+  
+  <h2>Happy coding..!</h2>
